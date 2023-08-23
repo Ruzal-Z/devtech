@@ -5,11 +5,11 @@ DEVTECH - это блог о технологиях разработки. Вкл
 ## Установка и запуск:
 Клонируйте репозиторий:
 
-     git clone https://github.com/Ruzal-Z/devtech.git
+     git clone https://github.com/devbkd/devtech.git
 
 или используйте SSH-ключ:
 
-     git clone git@github.com:Ruzal-Z/devtech.git
+     git clone git@github.com:devbkd/devtech.git
 
 Установить и активировать виртуальную среду
 
@@ -39,4 +39,4 @@ Django 4.1
 PostgreSQL 15  
 
 ## Автор:
-Рузал Закиров [GitHub](https://github.com/Ruzal-Z/)
+Рузал Закиров [GitHub](https://github.com/devbkd/)
